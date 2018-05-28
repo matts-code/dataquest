@@ -1,1 +1,1 @@
-# dataquest
+example projects completed on Dataquest.io
