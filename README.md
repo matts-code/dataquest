@@ -1,1 +1,1 @@
-example projects completed on Dataquest.io
+example python and data analysis projects completed on Dataquest.io
